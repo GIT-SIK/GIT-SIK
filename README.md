@@ -3,19 +3,17 @@
  
  ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=100&section=header%20GITHUB) 
  -->
-<div align=left>
+<div align=right>
 
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGIT-SIK&count_bg=000000&title_bg=000000&icon=&title=hits&edge_flat=false)
-
- <a href="https://deve1oper.tistory.com/">  ![tistory](https://img.shields.io/badge/tistory-000000?style=flat-square&logoColor=white) </a>
- 
+<br><a href="https://deve1oper.tistory.com/">  ![tistory](https://img.shields.io/badge/tistory-000000?style=flat-square&logoColor=white) </a>
 
 </div>
 <div align = left>
 
- <!--
-#### Tools & Languages
+
+### :pushpin: Skill
 
    
 ![AutoHotkey](https://img.shields.io/badge/AutoHotkey-334455?style=flat-square&logo=AutoHotkey&logoColor=white)
@@ -44,15 +42,15 @@
 <br>
 
  ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white) 
- ![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white)
+ ![NGINX](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=NGINX&logoColor=white)
  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
- -->
+
  
 <br>
 </div>
 <div align = left> 
  
- <!-- #### stats -->
+### :pushpin: Stats
  
-![GIT-SIK's GitHub stats](https://github-readme-stats.vercel.app/api?username=GIT-SIK&show_icons=true&theme=radical)
+![GIT-SIK's GitHub stats](https://github-readme-stats.vercel.app/api?username=GIT-SIK&show_icons=true&theme=github_dark)
 </div>
