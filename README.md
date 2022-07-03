@@ -13,7 +13,7 @@
 
 
 
-### :pushpin: Skill
+### :pushpin: SKILLS
 
   <div align = left>
   
@@ -47,7 +47,7 @@
 </div>
 <div align = left> 
  
-### :pushpin: Stats
+### :pushpin: STATS
  
-![GIT-SIK's GitHub stats](https://github-readme-stats.vercel.app/api?username=GIT-SIK&show_icons=true&theme=github_dark)
+![GIT-SIK's GitHub stats](https://github-readme-stats.vercel.app/api?username=GIT-SIK&show_icons=true&theme=vue)
 </div>
