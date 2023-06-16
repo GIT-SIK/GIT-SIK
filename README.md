@@ -3,11 +3,11 @@
  
  ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=100&section=header%20GITHUB) 
  -->
-<div align=right>
+<div align=left>
 
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGIT-SIK&count_bg=000000&title_bg=000000&icon=&title=hits&edge_flat=false)
-<br><a href="https://deve1oper.tistory.com/">  ![tistory](https://img.shields.io/badge/tistory-000000?style=flat-square&logoColor=white) </a>
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGIT-SIK)
+<!--<br><a href="https://deve1oper.tistory.com/">  ![tistory](https://img.shields.io/badge/tistory-000000?style=flat-square&logoColor=white) </a> -->
 
 </div>
 
