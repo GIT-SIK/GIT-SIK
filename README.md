@@ -46,10 +46,10 @@
  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
 
 </div>
+--> 
 <div align = left> 
  
 ### :pushpin: STATS
  
 ![GIT-SIK's GitHub stats](https://github-readme-stats.vercel.app/api?username=GIT-SIK&show_icons=true&theme=vue)
 </div>
---> 
