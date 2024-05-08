@@ -7,6 +7,7 @@
 
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGIT-SIK)
+<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=sik)](https://solved.ac/sik) -->
 <!--<br><a href="https://deve1oper.tistory.com/">  ![tistory](https://img.shields.io/badge/tistory-000000?style=flat-square&logoColor=white) </a> -->
 
 </div>
@@ -48,8 +49,9 @@
 </div>
 --> 
 <div align = left> 
- 
+
+ <!--
 ### :pushpin: STATS
- 
-![GIT-SIK's GitHub stats](https://github-readme-stats.vercel.app/api?username=GIT-SIK&show_icons=true&theme=vue)
+ -->
+![GIT-SIK's GitHub stats](https://github-readme-stats.vercel.app/api?username=GIT-SIK&show_icons=true&theme=chartreuse-dark)
 </div>
